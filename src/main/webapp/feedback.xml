@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedbacks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="feedback.xsd">
+
+  <feedback c_id="C001">
+    <name>Gopika</name>
+    <email>raju2006@example.com</email>
+    <phone>9876543210</phone>
+    <message>Great blog! The articles are insightful.</message>
+    <rating>5</rating>
+  </feedback>
+
+  <feedback c_id="C002">
+    <name>Arun</name>
+    <email>arun@example.com</email>
+    <phone>9123456780</phone>
+    <message>I like the design, but loading speed can be improved.</message>
+    <rating>4</rating>
+  </feedback>
+
+</feedbacks>
